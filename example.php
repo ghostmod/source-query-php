@@ -1,4 +1,4 @@
-<?
+<?php
 function query_source($address) 
 	{ 
 		$array = explode(":", $address);
